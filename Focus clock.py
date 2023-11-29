@@ -20,3 +20,4 @@ if __name__ == "__main__":
     focus_duration = 25 * 60  # 25分钟专注时间（以秒为单位）
     break_duration = 5 * 60   # 5分钟休息时间（以秒为单位）
     focus_timer(focus_duration, break_duration)
+
